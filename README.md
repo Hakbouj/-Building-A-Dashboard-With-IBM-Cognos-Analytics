@@ -1,2 +1,2 @@
-# Please Double click on Part A - Building A Dashboard With IBM Cognos Analytics.pdf to see the dashboard
+# Please click on Part A - Building A Dashboard With IBM Cognos Analytics.pdf
 # Thank You
